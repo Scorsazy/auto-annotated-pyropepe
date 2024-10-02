@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
